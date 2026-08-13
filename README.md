@@ -6,8 +6,8 @@ A polished full-stack assignment project for exploring **Bangalore/Bengaluru PIN
 
 ## Live demo
 
-- **API:** [https://bangalore-pincode-explorer-lm6z.onrender.com/api](https://bangalore-pincode-explorer-lm6z.onrender.com/api)
-- **Frontend:** *(Deploy frontend on Vercel setting environment variable `VITE_API_URL=https://bangalore-pincode-explorer-lm6z.onrender.com/api`)*
+- **Frontend App:** [https://bangalore-pincode-explorer-taupe.vercel.app](https://bangalore-pincode-explorer-taupe.vercel.app)
+- **REST API (Render):** [https://bangalore-pincode-explorer-lm6z.onrender.com/api](https://bangalore-pincode-explorer-lm6z.onrender.com/api)
 
 ## Repository
 
