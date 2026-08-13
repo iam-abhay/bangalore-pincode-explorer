@@ -13,9 +13,7 @@ After deployment, add the URL here:
 
 ## Repository
 
-After publishing to GitHub, use:
-
-`https://github.com/YOUR_USERNAME/bangalore-pincode-explorer`
+[https://github.com/iam-abhay/bangalore-pincode-explorer](https://github.com/iam-abhay/bangalore-pincode-explorer)
 
 ## Features
 
